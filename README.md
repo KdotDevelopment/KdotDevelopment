@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am a freshman at Purdue University and I am learning how to write operating systems and compilers.
-- Programmer for BLRS2 Vex Robotics team
+- Programmer for BLRS2 VEX Robotics team
 - PROS developer (robotics real-time operating system)
   
 <!--
