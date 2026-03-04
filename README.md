@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am a sophomore at Purdue University and I am learning how to write operating systems and compilers.
-- Programmer for BLRS2 VEX Robotics team
-- PROS developer (robotics real-time operating system)
+- Programmer for BLRS VEX Robotics team
+- PROS lead/developer (robotics real-time operating system)
   
 <!--
 **KdotDevelopment/KdotDevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
